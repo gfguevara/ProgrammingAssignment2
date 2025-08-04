@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Ignorar el archivo de datos grande
+household_power_consumption.txt
+
+# Ignorar el archivo zip descargado
+household_power_consumption.zip
